@@ -22,3 +22,5 @@ class Pair{
 
 // for nth element
 // totapPair = n(n-1)/2
+
+// Time Complexcity - O(n^2)
