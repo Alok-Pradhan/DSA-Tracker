@@ -17,3 +17,8 @@ class Pair{
         FindPair(arr);
     }
 }
+
+// there is a formula for find pair in array 
+
+// for nth element
+// totapPair = n(n-1)/2
